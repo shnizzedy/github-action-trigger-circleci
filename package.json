@@ -1,7 +1,7 @@
 {
-  "name": "circleci-trigger-github-action",
-  "version": "1.0.0",
-  "description": "github action that triggers circle-ci job",
+  "name": "github-action-trigger-circleci",
+  "version": "1.1.0",
+  "description": "GitHub Action that triggers Circle-CI job",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,14 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zivkaziv/circleci-trigger-github-action.git"
+    "url": "git+https://github.com/shnizzedy/github-action-trigger-circleci.git"
   },
   "author": "Ziv Kalderon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zivkaziv/circleci-trigger-github-action/issues"
+    "url": "https://github.com/shnizzedy/github-action-trigger-circleci/issues"
   },
-  "homepage": "https://github.com/zivkaziv/circleci-trigger-github-action#readme",
+  "homepage": "https://github.com/github-action-trigger-circleci/circleci-trigger-github-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "axios": "^0.21.1",

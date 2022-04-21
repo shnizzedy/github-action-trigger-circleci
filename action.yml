@@ -6,7 +6,7 @@ branding:
   color: 'purple'
 inputs:
   token:
-    description: 'CircleCI Api Token'
+    description: 'CircleCI API Token'
     required: true
   org:
     description: 'CircleCI organization name'

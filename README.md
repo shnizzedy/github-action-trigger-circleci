@@ -1,8 +1,10 @@
 # Trigger CircleCI Job
 
-[GitHub Action](https://github.com/features/actions) for triggering CircleCi job
+Fork of [zivkaziv/circleci-trigger-github-action](https://github.com/zivkaziv/circleci-trigger-github-action).
 
-This can be useful when you want to migrate from CircleCi into Github actions and you want to do it step by step (e.g. run the first job in github actions and then trigger the second job).
+[GitHub Action](https://github.com/features/actions) for triggering CircleCI job
+
+This can be useful when you want to migrate from CircleCI into Github actions and you want to do it step by step (e.g. run the first job in GitHub actions and then trigger the second job).
 
 ## Inputs
 
